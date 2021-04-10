@@ -84,7 +84,7 @@ Linux
 
 ```
 
-**I Mostly Code in Vue**
+**I Mostly Code in Node**
 
 ```text
 Java
